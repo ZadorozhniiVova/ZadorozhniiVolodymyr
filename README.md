@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" justify="center"/><h2>Hey there! I'm Volodymyr</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" justify="center"/><h2 justify="center">Hey there! I'm Volodymyr, Front-End Developer from Odessa,Ukraine</h2>
 
 
 <!-- ## 👋 &nbsp;Hey there! I'm Volodymyr-->
@@ -13,7 +13,6 @@
 ✉️ &nbsp;You can shoot me an email at [zadorozhniiv@gmail.com](zadorozhniiv@gmial.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [CV](./documents/CV_FrontEnd_Zadorozhnii_V.pdf) for more details about me. I'm open to feedback and suggestions!
 __
-</br>
 </br>
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
@@ -37,8 +36,6 @@ __
 </br>
 </br>
 </br>
-</br>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
