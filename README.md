@@ -11,7 +11,7 @@ ___
 🌱 &nbsp;I'm on track for learning more and more about Web Development.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at [zadorozhniiv@gmail.com](zadorozhniiv@gmial.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](./documents/CV_FrontEnd_Zadorozhnii_V.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](./documents/CV_FrontEnd_Zadorozhnii_V.pdf) for more details about me. I'm open to feedback and suggestions!
 __
 </br>
 </br>
@@ -34,6 +34,7 @@ __
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+</br>
 </br>
 </br>
 </br>
