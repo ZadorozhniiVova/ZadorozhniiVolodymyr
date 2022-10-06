@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Volodymyr</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" justify="center"/><h2>Hey there! I'm Volodymyr</h2>
 ___
 
 <!-- ## 👋 &nbsp;Hey there! I'm Volodymyr-->
@@ -13,8 +13,10 @@ ___
 ✉️ &nbsp;You can shoot me an email at [zadorozhniiv@gmail.com](zadorozhniiv@gmial.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](./documents/CV_FrontEnd_Zadorozhnii_V.pdf) for more details about me. I'm open to feedback and suggestions!
 __
+</br>
+</br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -32,6 +34,9 @@ __
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+</br>
+</br>
+</br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
