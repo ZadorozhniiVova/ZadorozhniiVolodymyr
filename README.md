@@ -1,6 +1,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left" justify="center"/><h2>Hey there! I'm Volodymyr</h2>
-___
+
 
 <!-- ## 👋 &nbsp;Hey there! I'm Volodymyr-->
 
